@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Sers",
+      "email": "correo2@correo.com",
+      "telefono": "943145145",
+      "empresa": "Trcks",
+      "id": 1
+    },
+    {
+      "nombre": "Sara Sers",
+      "email": "correo3@correo.com",
+      "telefono": "943488255",
+      "empresa": "LeonidasSAC",
+      "id": 2
+    },
+    {
+      "nombre": "Pedro Suarez Duarte",
+      "email": "Suares@gmail.com",
+      "telefono": "945142658",
+      "empresa": "DuarSac",
+      "id": 3
+    }
+  ]
+}
